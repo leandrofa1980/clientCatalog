@@ -1,0 +1,12 @@
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Leandro Andrade', '013.254.687-33', 3500.0, TIMESTAMP WITH TIME ZONE '1980-03-06T20:50:07.12345Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Elenilda Ferreira', '001.224.644-32', 6500.0, TIMESTAMP WITH TIME ZONE '1956-04-06T20:50:07.12345Z', 2);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Allan Lima', '456.254.789-11', 4000.0, TIMESTAMP WITH TIME ZONE '1981-06-27T20:50:07.12345Z', 2);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Erick Bugart', '222.333.444-55', 5500.0, TIMESTAMP WITH TIME ZONE '1980-04-10T20:50:07.12345Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Adriana Largos', '333.254.687-33', 4500.0, TIMESTAMP WITH TIME ZONE '1998-10-14T20:50:07.12345Z', 3);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Amanda Souza', '022.254.687-88', 2500.0, TIMESTAMP WITH TIME ZONE '1999-06-21T20:50:07.12345Z', 2);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Ana Clara', '013.456.688-97', 3500.0, TIMESTAMP WITH TIME ZONE '2000-08-05T20:50:07.12345Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Maerth Andrade', '111.222.333-44', 3600.0, TIMESTAMP WITH TIME ZONE '1956-10-19T20:50:07.12345Z', 4);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Carolina ALves', '000.111.222-33', 3500.0, TIMESTAMP WITH TIME ZONE '1979-10-06T20:50:07.12345Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Marcio Jose', '000.254.777-88', 3500.0, TIMESTAMP WITH TIME ZONE '1995-11-11T20:50:07.12345Z', 3);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Antonio Coelho', '111.254.666-33', 5000.0, TIMESTAMP WITH TIME ZONE '1990-02-10T20:50:07.12345Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Juliana Ferreira', '012.345.678-99', 4000.0, TIMESTAMP WITH TIME ZONE '1987-11-19T20:50:07.12345Z', 2);
